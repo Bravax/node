@@ -2,7 +2,8 @@
   "dependencies": {
     "chak": "^0.0.1-security",
     "chalk": "^5.3.0",
-    "cowsay": "^1.5.0"
+    "cowsay": "^1.5.0",
+    "dotenv": "^16.3.1"
   },
   "name": "node3",
   "version": "1.0.0",
